@@ -22,6 +22,17 @@
 		Description = "",
 	},
 	{
+		Display = 'Cool Guy',
+		Color = Color3.fromRGB(174, 124, 243),
+		StrokeColor = Color3.fromRGB(89, 32, 125),
+		StrokeTransparency = 0.3,
+		Font = Enum.Font.Kalam,
+		Bold = true,
+		Size = 4,
+		Animation = "BoldWave",
+		Description = "",
+	},
+	{
 		Display = 'Madoka',
 		Color = Color3.fromRGB(242, 181, 184),
 		StrokeColor = Color3.fromRGB(140, 78, 103),
