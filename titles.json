@@ -1,10 +1,10 @@
 [
 	{
-		"Display": "Cool Guy",
-		"Color": [174, 124, 243],
-		"StrokeColor": [89, 32, 125],
-		"StrokeTransparency": 0.3,
-		"Font": "Kalam",
+		"Display": "Remedy",
+		"Color": [0, 0, 0],
+		"StrokeColor": [255, 255, 255],
+		"StrokeTransparency": 0.35,
+		"Font": "Gotham",
 		"Bold": true,
 		"Size": 4,
 		"Animation": "BoldWave",
