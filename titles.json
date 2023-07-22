@@ -14,7 +14,7 @@
 		"Display": "KingSouls",
 		"Color": [84, 8, 8],
 		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 0.,
+		"StrokeTransparency": 0,
 		"Font": "Bangers",
 		"Bold": true,
 		"Size": 4,
