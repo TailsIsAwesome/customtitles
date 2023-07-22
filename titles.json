@@ -20,5 +20,16 @@
 		"Size": 4,
 		"Animation": "Wave",
 		"Description": ""
+	},
+	{
+		"Display": "Avenged",
+		"Color": [0,0,0],
+		"StrokeColor": [255, 255, 255],
+		"StrokeTransparency": 0.45,
+		"Font": "Antique",
+		"Bold": true,
+		"Size": 4,
+		"Animation": "Wave",
+		"Description": ""
 	}
 ]
