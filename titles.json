@@ -1,16 +1,5 @@
 [
 	{
-		"Display": "Remedy",
-		"Color": [0, 0, 0],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 0.35,
-		"Font": "Gotham",
-		"Bold": true,
-		"Size": 4,
-		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
 		"Display": "KingSouls",
 		"Color": [84, 8, 8],
 		"StrokeColor": [255, 255, 255],
