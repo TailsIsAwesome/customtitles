@@ -29,7 +29,7 @@
 		"Font": "Antique",
 		"Bold": true,
 		"Size": 4,
-		"Animation": "Wave",
+		"Animation": "BoldWave",
 		"Description": ""
 	}
 ]
