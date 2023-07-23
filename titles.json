@@ -20,5 +20,16 @@
 		"Size": 4,
 		"Animation": "BoldWave",
 		"Description": ""
-	}
+	},
+	{
+        	"Display": "Mr. Clementine",
+        	"Color": [255,127,0],
+        	"StrokeColor": [174, 87, 0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "Kalam",
+        	"Bold": false,
+        	"Size": 4,
+       	 	"Animation": "Wave",
+        	"Description": ""
+    	}
 ]
