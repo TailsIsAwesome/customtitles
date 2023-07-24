@@ -31,5 +31,16 @@
         	"Size": 4,
        	 	"Animation": "Wave",
         	"Description": ""
+    	},
+	{
+        	"Display": "Life is Roblox",
+        	"Color": [115,206,255],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "FredokaOne",
+        	"Bold": true,
+        	"Size": 4,
+       	 	"Animation": "BoldWave",
+        	"Description": ""
     	}
 ]
