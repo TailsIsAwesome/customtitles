@@ -38,8 +38,8 @@
         	"StrokeColor": [0,0,0],
         	"StrokeTransparency": 0.45,
         	"Font": "FredokaOne",
-        	"Bold": true,
-        	"Size": 4,
+        	"Bold": false,
+        	"Size": 5,
        	 	"Animation": "BoldWave",
         	"Description": ""
     	}
