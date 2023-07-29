@@ -13,8 +13,8 @@
 	{
 		"Display": "Senior Programmer",
 		"Color": [240, 113, 176],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 1,
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
 		"Font": "Ubuntu",
 		"Bold": true,
 		"Rainbow": true,
@@ -25,8 +25,8 @@
 	{
 		"Display": "Boogle",
 		"Color": [240, 113, 176],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 1,
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
 		"Font": "Ubuntu",
 		"Bold": true,
 		"Rainbow": true,
