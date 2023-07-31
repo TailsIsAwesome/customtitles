@@ -11,13 +11,25 @@
 		"Description": ""
 	},
 	{
-		"Display": "Senior Programmer",
+		"Display": "Gay",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
 		"StrokeTransparency": 0,
 		"Font": "Ubuntu",
 		"Bold": true,
 		"Rainbow": true,
+		"Size": 4,
+		"Animation": "Wave",
+		"Description": ""
+	},
+	{
+		"Display": "E-Kitten",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Rainbow": false,
 		"Size": 4,
 		"Animation": "Wave",
 		"Description": ""
