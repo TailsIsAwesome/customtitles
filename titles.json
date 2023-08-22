@@ -55,7 +55,8 @@
 		"Bold": true,
 		"Rainbow": false,
 		"Size": 4,
-		"Description": ""
+		"Description": "",
+		"Animation": "Wave",
 	},
 	{
 		"Display": "the guy",
