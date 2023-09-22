@@ -139,5 +139,16 @@
         	"Size": 5,
        	 	"Animation": "BoldWave",
         	"Description": ""
+    	},
+	{
+        	"Display": "Jamóncito",
+        	"Color": [238,158,168],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0,
+        	"Font": "Kalam",
+        	"Bold": true,
+        	"Size": 4,
+       	 	"Animation": "Wave",
+        	"Description": ""
     	}
 ]
