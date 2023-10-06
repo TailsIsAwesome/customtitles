@@ -150,5 +150,60 @@
         	"Size": 4,
        	 	"Animation": "Wave",
         	"Description": ""
+    	},
+	{
+        	"Display": "Karen",
+        	"Color": [248,115,250],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "Bangers",
+        	"Bold": false,
+        	"Size": 2,
+       	 	"Animation": "",
+        	"Description": ""
+    	},
+	{
+        	"Display": "Memer",
+        	"Color": [109, 207, 119],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "Arcade",
+        	"Bold": false,
+        	"Size": 2,
+       	 	"Animation": "",
+        	"Description": ""
+    	},
+	{
+        	"Display": "Pink Guy",
+        	"Color": [242, 121, 194],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "LuckiestGuy",
+        	"Bold": false,
+        	"Size": 2,
+       	 	"Animation": "",
+        	"Description": ""
+    	},
+	{
+        	"Display": "Minion",
+        	"Color": [242, 227, 87],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "Fondamento",
+        	"Bold": false,
+        	"Size": 4,
+       	 	"Animation": "",
+        	"Description": ""
+    	},
+	{
+        	"Display": "Arc’s Minion",
+        	"Color": [242, 133, 87],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "LuckiestGuy",
+        	"Bold": false,
+        	"Size": 2,
+       	 	"Animation": "",
+        	"Description": ""
     	}
 ]
