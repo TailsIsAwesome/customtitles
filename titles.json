@@ -40,7 +40,7 @@
 		"Color": [219, 145, 145],
 		"StrokeColor": [0, 0, 0],
 		"StrokeTransparency": 0,
-		"Font": "PermanentMarker",
+		"Font": "AmaticSC",
 		"Bold": true,
 		"Rainbow": true,
 		"Size": 5,
