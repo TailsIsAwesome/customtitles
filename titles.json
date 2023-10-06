@@ -84,6 +84,18 @@
 		"Description": ""
 	},
 	{
+		"Display": "Transcendental",
+		"Color": [5, 104, 150],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "JosefinSans",
+		"Bold": true,
+		"Rainbow": false,
+		"Size": 3,
+		"Animation": "",
+		"Description": ""
+	},
+	{
 		"Display": "Avenged",
 		"Color": [0,0,0],
 		"StrokeColor": [255, 255, 255],
