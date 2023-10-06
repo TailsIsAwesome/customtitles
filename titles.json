@@ -40,10 +40,10 @@
 		"Color": [219, 145, 145],
 		"StrokeColor": [0, 0, 0],
 		"StrokeTransparency": 0,
-		"Font": "Kalam",
+		"Font": "PermanentMarker",
 		"Bold": true,
-		"Rainbow": false,
-		"Size": 4,
+		"Rainbow": true,
+		"Size": 5,
 		"Animation": "Wave",
 		"Description": ""
 	},
