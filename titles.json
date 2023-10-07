@@ -24,6 +24,18 @@
 		"Description": ""
 	},
 	{
+		"Display": "Chicken Nugget",
+		"Color": [234, 157, 41],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Bangers",
+		"Bold": true,
+		"Rainbow": false,
+		"Size": 4,
+		"Animation": "wave",
+		"Description": ""
+	},
+	{
 		"Display": "Quackhead",
 		"Color": [128, 136, 192],
 		"StrokeColor": [0, 0, 0],
