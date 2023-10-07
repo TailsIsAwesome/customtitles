@@ -253,5 +253,16 @@
         	"Size": 2,
        	 	"Animation": "",
         	"Description": ""
+    	},
+	{
+        	"Display": "Skyline",
+        	"Color": [133, 12, 12],
+        	"StrokeColor": [0,0,0],
+        	"StrokeTransparency": 0.45,
+        	"Font": "IndieFlower",
+        	"Bold": true,
+        	"Size": 4,
+       	 	"Animation": "",
+        	"Description": ""
     	}
 ]
