@@ -24,7 +24,7 @@
 		"Description": ""
 	},
 	{
-		"Display": "Chicken Nugget",
+		"Display": "Nugget",
 		"Color": [234, 157, 41],
 		"StrokeColor": [0, 0, 0],
 		"StrokeTransparency": 0,
@@ -68,18 +68,6 @@
 		"Bold": true,
 		"Rainbow": false,
 		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "Arc's Bestie",
-		"Color": [219, 145, 145],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "AmaticSC",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 5,
 		"Animation": "Wave",
 		"Description": ""
 	},
@@ -252,17 +240,6 @@
         	"Font": "Fondamento",
         	"Bold": false,
         	"Size": 4,
-       	 	"Animation": "",
-        	"Description": ""
-    	},
-	{
-        	"Display": "Arc’s Minion",
-        	"Color": [242, 133, 87],
-        	"StrokeColor": [0,0,0],
-        	"StrokeTransparency": 0.45,
-        	"Font": "LuckiestGuy",
-        	"Bold": false,
-        	"Size": 2,
        	 	"Animation": "",
         	"Description": ""
     	},
