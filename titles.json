@@ -11,6 +11,18 @@
 		"Description": ""
 	},
 	{
+		"Display": "Game Artist",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Cartoon",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 5,
+		"Animation": "BoldWave",
+		"Description": ""
+	},
+	{
 		"Display": "Froom",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
