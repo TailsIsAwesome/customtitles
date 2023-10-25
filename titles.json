@@ -193,5 +193,17 @@
         	"Size": 4,
        	 	"Animation": "",
         	"Description": ""
+    	},
+	{
+        	"Display": "Denys",
+        	"Color": [240, 113, 176],
+        	"StrokeColor": [0, 0, 0],
+        	"StrokeTransparency": 0,
+       	 	"Font": "FredokaOne",
+        	"Bold": true,
+        	"Rainbow": true,
+        	"Size": 5,
+        	"Animation": "Wave",
+        	"Description": ""
     	}
 ]
