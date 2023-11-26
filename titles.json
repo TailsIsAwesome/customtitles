@@ -193,7 +193,7 @@
         	"Color": [238,158,168],
         	"StrokeColor": [0,0,0],
         	"StrokeTransparency": 0,
-        	"Font": "Kalam",
+        	"Font": "PermanentMarker",
         	"Bold": true,
         	"Size": 4,
        	 	"Animation": "Wave",
