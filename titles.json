@@ -189,17 +189,6 @@
         	"Description": ""
     	},
 	{
-        	"Display": "Jamoncito",
-        	"Color": [238,158,168],
-        	"StrokeColor": [0,0,0],
-        	"StrokeTransparency": 0,
-        	"Font": "PermanentMarker",
-        	"Bold": true,
-        	"Size": 4,
-       	 	"Animation": "Wave",
-        	"Description": ""
-    	},
-	{
         	"Display": "Karen",
         	"Color": [248,115,250],
         	"StrokeColor": [0,0,0],
@@ -256,7 +245,8 @@
         	"Description": ""
     	},
 	{
-        	"Display": "Salchicha",
+        	"Display": "Salchicho",
+		"Other": "Salchicha",
         	"Color": [198, 9, 20],
         	"StrokeColor": [0,0,0],
         	"StrokeTransparency": 0,
