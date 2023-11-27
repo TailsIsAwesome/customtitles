@@ -265,7 +265,8 @@
         	"Description": ""
     	},
 		{
-        	"Display": "Jamóncito",
+        	"Display": "Jamoncito",
+		"Other": "Jamoncita",
         	"Color": [48, 213, 200],
         	"StrokeColor": [0, 0, 0],
         	"StrokeTransparency": 0,
