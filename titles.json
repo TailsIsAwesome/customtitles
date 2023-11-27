@@ -11,6 +11,16 @@
 		"Description": ""
 	},
 	{
+		"Display": "I asked Boogle for a title so he gave me this.",
+		"Color": [255, 255, 255],
+		"StrokeColor": [255, 255, 255],
+		"StrokeTransparency": 0,
+		"Font": "RobotoMono",
+		"Bold": true,
+		"Size": 3,
+		"Description": ""
+	},
+	{
 		"Display": "E-Kitten",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
