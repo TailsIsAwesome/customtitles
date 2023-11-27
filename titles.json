@@ -21,6 +21,16 @@
 		"Description": ""
 	},
 	{
+		"Display": "godking",
+		"Color": [240, 113, 176],
+		"StrokeColor": [255, 255, 255],
+		"StrokeTransparency": 0,
+		"Font": "IndieFlower",
+		"Bold": true,
+		"Size": 4,
+		"Description": ""
+	},
+	{
 		"Display": "E-Kitten",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
