@@ -264,6 +264,18 @@
         	"Animation": "Wave",
         	"Description": ""
     	},
+		{
+        	"Display": "Jamóncito",
+        	"Color": [48, 213, 200],
+        	"StrokeColor": [0, 0, 0],
+        	"StrokeTransparency": 0,
+       	 	"Font": "Gotham",
+        	"Bold": true,
+        	"Rainbow": false,
+        	"Size": 4,
+        	"Animation": "Wave",
+        	"Description": ""
+    	},
 	{
         	"Display": "Salchicho",
 		"Other": "Salchicha",
