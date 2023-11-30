@@ -152,6 +152,30 @@
 		"Description": ""
 	},
 	{
+		"Display": "🐒",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Rainbow": false,
+		"Size": 4,
+		"Animation": "Wave",
+		"Description": ""
+	},
+	{
+		"Display": "OhFear🐒",
+		"Color": [240, 113, 176],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 4,
+		"Animation": "Wave",
+		"Description": ""
+	},
+	{
 		"Display": "Transcendental",
 		"Color": [5, 104, 150],
 		"StrokeColor": [0, 0, 0],
