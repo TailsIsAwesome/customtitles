@@ -31,6 +31,26 @@
 		"Description": ""
 	},
 	{
+		"Display": "Gyatt Detector",
+		"Color": [255, 203, 164],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Size": 4,
+		"Description": ""
+	},
+	{
+		"Display": "Gyatt Holder",
+		"Color": [152, 52, 235],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Ubuntu",
+		"Bold": true,
+		"Size": 4,
+		"Description": ""
+	},
+	{
 		"Display": "Queen",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
