@@ -1,92 +1,5 @@
 [
 	{
-		"Display": "KingSouls",
-		"Color": [84, 8, 8],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 0,
-		"Font": "Bangers",
-		"Bold": true,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "I asked Boogle for a title so he gave me this.",
-		"Color": [255, 255, 255],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "RobotoMono",
-		"Bold": true,
-		"Size": 4,
-		"Description": ""
-	},
-	{
-		"Display": "godking",
-		"Color": [240, 113, 176],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 0,
-		"Font": "IndieFlower",
-		"Bold": true,
-		"Size": 4,
-		"Description": ""
-	},
-	{
-		"Display": "Gyatt Detector",
-		"Color": [255, 203, 164],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Size": 4,
-		"Description": ""
-	},
-	{
-		"Display": "Gyatt Holder",
-		"Color": [152, 52, 235],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Size": 4,
-		"Description": ""
-	},
-	{
-		"Display": "Queen",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "E-Kitten",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "Beamer Girl",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
 		"Display": "Boogle's Pet",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
@@ -99,31 +12,6 @@
 		"Description": ""
 	},
 	{
-		"Display": "Gay",
-		"Other": "Lesbian",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "Huh?",
-		"Color": [0, 0, 0],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 0,
-		"Font": "PermanentMarker",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 4,
-		"Animation": "Type",
-		"Description": ""
-	},
-	{
 		"Display": "Game Artist",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
@@ -133,42 +21,6 @@
 		"Rainbow": true,
 		"Size": 5,
 		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
-		"Display": "Froom",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Highway",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 4,
-		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
-		"Display": "Lady In Red",
-		"Color": [173, 5, 5],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "IndieFlower",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 4,
-		"Description": "",
-		"Animation": "Wave"
-	},
-	{
-		"Display": "the guy",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 4,
-		"Animation": "Wave",
 		"Description": ""
 	},
 	{
@@ -193,41 +45,6 @@
 		"Rainbow": true,
 		"Size": 4,
 		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "🐒",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 4,
-		"Description": ""
-	},
-	{
-		"Display": "OhFear",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "Transcendental",
-		"Color": [5, 104, 150],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "JosefinSans",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 5,
-		"Animation": "",
 		"Description": ""
 	},
 	{
@@ -285,50 +102,6 @@
         	"Bold": false,
         	"Size": 5,
        	 	"Animation": "BoldWave",
-        	"Description": ""
-    	},
-	{
-        	"Display": "Karen",
-        	"Color": [248,115,250],
-        	"StrokeColor": [0,0,0],
-        	"StrokeTransparency": 0.45,
-        	"Font": "Bangers",
-        	"Bold": false,
-        	"Size": 2,
-       	 	"Animation": "",
-        	"Description": ""
-    	},
-	{
-        	"Display": "Memer",
-        	"Color": [109, 207, 119],
-        	"StrokeColor": [0,0,0],
-        	"StrokeTransparency": 0.45,
-        	"Font": "Arcade",
-        	"Bold": false,
-        	"Size": 2,
-       	 	"Animation": "",
-        	"Description": ""
-    	},
-	{
-        	"Display": "Pink Guy",
-        	"Color": [242, 121, 194],
-        	"StrokeColor": [0,0,0],
-        	"StrokeTransparency": 0.45,
-        	"Font": "LuckiestGuy",
-        	"Bold": false,
-        	"Size": 2,
-       	 	"Animation": "",
-        	"Description": ""
-    	},
-	{
-        	"Display": "Skyline",
-        	"Color": [133, 12, 12],
-        	"StrokeColor": [0,0,0],
-        	"StrokeTransparency": 0.45,
-        	"Font": "IndieFlower",
-        	"Bold": true,
-        	"Size": 4,
-       	 	"Animation": "",
         	"Description": ""
     	},
 	{
