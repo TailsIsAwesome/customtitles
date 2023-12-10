@@ -59,6 +59,17 @@
 		"Description": ""
 	},
 	{
+		"Display": "Huh?",
+		"Color": [0,0,0],
+		"StrokeColor": [255, 255, 255],
+		"StrokeTransparency": 0.45,
+		"Font": "Antique",
+		"Bold": true,
+		"Size": 5,
+		"Animation": "BoldWave",
+		"Description": ""
+	},
+	{
         	"Display": "Mr. Clementine",
         	"Color": [255,127,0],
         	"StrokeColor": [174, 87, 0],
