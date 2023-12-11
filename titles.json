@@ -12,6 +12,18 @@
 		"Description": ""
 	},
 	{
+		"Display": "Lady in Red",
+		"Color": [99, 15, 9],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "GrenzeGotisch",
+		"Bold": true,
+		"Rainbow": false,
+		"Size": 5,
+		"Animation": "BoldWave",
+		"Description": ""
+	},
+	{
 		"Display": "Game Artist",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
