@@ -12,6 +12,18 @@
 		"Description": ""
 	},
 	{
+		"Display": "Cinnamon",
+		"Color": [93, 137, 199],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "AmaticSC",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 5,
+		"Animation": "BoldWave",
+		"Description": ""
+	},
+	{
 		"Display": "Miniman",
 		"Color": [93, 137, 199],
 		"StrokeColor": [0, 0, 0],
