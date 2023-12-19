@@ -187,7 +187,19 @@
         	"Animation": "Wave",
         	"Description": ""
     	},
-		{
+	{
+        	"Display": "Acoustic",
+        	"Color": [240, 113, 176],
+        	"StrokeColor": [0, 0, 0],
+        	"StrokeTransparency": 0,
+       	 	"Font": "FredokaOne",
+        	"Bold": true,
+        	"Rainbow": true,
+        	"Size": 5,
+        	"Animation": "Wave",
+        	"Description": ""
+    	},
+	{
         	"Display": " Jamoncito ",
 		"Other": " Jamoncita ",
         	"Color": [48, 213, 200],
