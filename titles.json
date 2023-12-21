@@ -165,6 +165,18 @@
     		"Description": ""
 	},
 	{
+    		"Display": "Hello Kitty",
+    		"Color": [229, 131, 235],
+    		"StrokeColor": [0, 0, 0],
+    		"StrokeTransparency": 0,
+    		"Font": "FredokaOne",
+    		"Bold": true,
+   		"Rainbow": false,
+    		"Size": 4,
+    		"Animation": "Wave",
+    		"Description": ""
+	},
+	{
         	"Display": "Life is Roblox",
         	"Color": [115,206,255],
         	"StrokeColor": [0,0,0],
