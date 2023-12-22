@@ -12,6 +12,18 @@
 		"Description": ""
 	},
 	{
+		"Display": "Piggy",
+		"Color": [93, 137, 199],
+		"StrokeColor": [0, 0, 0],
+		"StrokeTransparency": 0,
+		"Font": "Highway",
+		"Bold": true,
+		"Rainbow": true,
+		"Size": 5,
+		"Animation": "BoldWave",
+		"Description": ""
+	},
+	{
 		"Display": "Froom",
 		"Color": [93, 137, 199],
 		"StrokeColor": [0, 0, 0],
