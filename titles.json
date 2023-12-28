@@ -1,53 +1,5 @@
 [
 	{
-		"Display": "Boogle's Pet",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "IndieFlower",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "Piggy",
-		"Color": [93, 137, 199],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Highway",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 5,
-		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
-		"Display": "Froom",
-		"Color": [93, 137, 199],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Highway",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 5,
-		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
-		"Display": "Lady in Red",
-		"Color": [99, 15, 9],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "GrenzeGotisch",
-		"Bold": true,
-		"Rainbow": false,
-		"Size": 5,
-		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
 		"Display": "Game Artist",
 		"Color": [240, 113, 176],
 		"StrokeColor": [0, 0, 0],
@@ -72,98 +24,6 @@
 		"Description": ""
 	},
 	{
-		"Display": "Catman",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "CIBAPOY",
-		"Color": [240, 113, 176],
-		"StrokeColor": [0, 0, 0],
-		"StrokeTransparency": 0,
-		"Font": "Ubuntu",
-		"Bold": true,
-		"Rainbow": true,
-		"Size": 4,
-		"Animation": "Wave",
-		"Description": ""
-	},
-	{
-		"Display": "Avenged",
-		"Color": [0,0,0],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 0.45,
-		"Font": "Antique",
-		"Bold": true,
-		"Size": 4,
-		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
-		"Display": "Huh?",
-		"Color": [0,0,0],
-		"StrokeColor": [255, 255, 255],
-		"StrokeTransparency": 0.45,
-		"Font": "Antique",
-		"Bold": true,
-		"Size": 5,
-		"Animation": "BoldWave",
-		"Description": ""
-	},
-	{
-        	"Display": "Mr. Clementine",
-        	"Color": [255,127,0],
-        	"StrokeColor": [174, 87, 0],
-        	"StrokeTransparency": 0.45,
-        	"Font": "Kalam",
-        	"Bold": false,
-        	"Size": 4,
-       	 	"Animation": "Wave",
-        	"Description": ""
-    	},
-	{
-    		"Display": "HIM",
-    		"Color": [115,206,255],
-   		"StrokeColor": [0, 0, 0],
-    		"StrokeTransparency": 0,
-    		"Font": "Ubuntu",
-    		"Bold": true,
-    		"Rainbow": false,
-    		"Size": 4,
-    		"Animation": "Wave",
-   		"Description": ""
-	},
-	{
-    		"Display": "HER",
-    		"Color": [255, 117, 234],
-    		"StrokeColor": [0, 0, 0],
-    		"StrokeTransparency": 0,
-    		"Font": "Ubuntu",
-    		"Bold": true,
-   		"Rainbow": false,
-    		"Size": 4,
-    		"Animation": "Wave",
-    		"Description": ""
-	},
-	{
-        	"Display": "Life is Roblox",
-        	"Color": [115,206,255],
-        	"StrokeColor": [0,0,0],
-        	"StrokeTransparency": 0.45,
-        	"Font": "FredokaOne",
-        	"Bold": false,
-        	"Size": 5,
-       	 	"Animation": "BoldWave",
-        	"Description": ""
-    	},
-	{
         	"Display": "Denys",
         	"Color": [240, 113, 176],
         	"StrokeColor": [0, 0, 0],
@@ -175,29 +35,5 @@
         	"Animation": "Wave",
         	"Description": ""
     	},
-	{
-        	"Display": "Acoustic",
-        	"Color": [240, 113, 176],
-        	"StrokeColor": [0, 0, 0],
-        	"StrokeTransparency": 0,
-       	 	"Font": "FredokaOne",
-        	"Bold": true,
-        	"Rainbow": true,
-        	"Size": 5,
-        	"Animation": "Wave",
-        	"Description": ""
-    	},
-	{
-        	"Display": " Jamoncito ",
-		"Other": " Jamoncita ",
-        	"Color": [48, 213, 200],
-        	"StrokeColor": [0, 0, 0],
-        	"StrokeTransparency": 0,
-       	 	"Font": "Gotham",
-        	"Bold": true,
-        	"Rainbow": false,
-        	"Size": 4,
-        	"Animation": "Wave",
-        	"Description": ""
-    	}
+
 ]
